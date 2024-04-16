@@ -19,11 +19,11 @@
   <distributionManagement>
   <repository>
     <id>maven-repo</id>
-    <url>http://43.204.32.171:8082/nexus/content/repositories/maven-repo</url>
+    <url>http://15.206.173.132:8082/nexus/content/repositories/maven-repo</url>
   </repository>
   <snapshotRepository>
     <id>maven-snap</id>
-    <url>http://43.204.32.171:8082/nexus/content/repositories/maven-snap</url>
+    <url>http://15.206.173.132/nexus/content/repositories/maven-snap</url>
   </snapshotRepository>
 </distributionManagement>
 
